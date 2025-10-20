@@ -27,7 +27,6 @@ I am using **Nix** to ensure reproducible builds and clean environments.
 
 **Domains of Interest**
 - 🎮 Graphics Programming & Rendering Pipelines  
-- 🧱 Bare-metal and RTOS development  
 - 🧪 Build Systems & Toolchains  
 
 ---
@@ -36,18 +35,6 @@ I am using **Nix** to ensure reproducible builds and clean environments.
 - 📦 Cross-compiling Rust projects with Nix  
 - 🧮 Real-time rendering and shader programming  
 - 🦾 Safety-critical software design in Rust  
-
----
-
-### 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
----
-
-> “Build it simple. Make it safe. Then make it fast.” ⚙️
 
 ---
 
