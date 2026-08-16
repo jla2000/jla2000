@@ -1,6 +1,6 @@
 # Hey there, I'm Jan 👋
 
-👨‍💻 **Embedded Software Developer | Automotive Systems | Rust Enthusiast**
+👨‍💻 **Embedded Software Developer | Rust Enthusiast**
 
 ---
 
